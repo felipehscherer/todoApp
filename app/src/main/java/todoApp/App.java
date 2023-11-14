@@ -13,20 +13,5 @@ import model.Task;
 public class App {
     public static void main(String[] args) {
         
-
-        
-        /*TaskController taskController = new TaskController();
-        
-        Task task = new Task();
-        task.setIdProject(10);
-        task.setName("testeTask");
-        task.setDescription("aaaa");
-        task.setNotes("aaaaaaaaaa");
-        task.setDeadline(new Date("24/10/2023"));
-        //task.setIsCompleted(false);
-        taskController.save(task);*/
-        
-        
-
     }
 }
