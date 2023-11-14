@@ -12,10 +12,6 @@ import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 import model.Task;
 
-/**
- *
- * @author Samsung
- */
 public class DeadlineColumnCellRederer extends DefaultTableCellRenderer{
     
     @Override
