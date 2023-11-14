@@ -14,10 +14,6 @@ import java.util.List;
 import model.Task;
 import util.ConnectionFactory;
 
-/**
- *
- * @author Samsung
- */
 public class TaskController {
     
     /**
