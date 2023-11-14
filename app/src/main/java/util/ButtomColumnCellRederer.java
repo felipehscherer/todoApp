@@ -9,10 +9,6 @@ import javax.swing.JLabel;
 import javax.swing.JTable;
 import javax.swing.table.DefaultTableCellRenderer;
 
-/**
- *
- * @author Samsung
- */
 public class ButtomColumnCellRederer extends DefaultTableCellRenderer{
     private String buttonType;
     
