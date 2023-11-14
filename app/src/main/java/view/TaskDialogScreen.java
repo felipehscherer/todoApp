@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JDialog.java to edit this template
- */
 package view;
 
 import controller.TaskController;
@@ -14,10 +10,6 @@ import javax.swing.JOptionPane;
 import model.Project;
 import model.Task;
 
-/**
- *
- * @author Samsung
- */
 public class TaskDialogScreen extends javax.swing.JDialog {
 
     TaskController controller;
