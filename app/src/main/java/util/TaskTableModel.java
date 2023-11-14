@@ -10,10 +10,6 @@ import java.util.List;
 import javax.swing.table.AbstractTableModel;
 import model.Task;
 
-/**
- *
- * @author Samsung
- */
 public class TaskTableModel extends AbstractTableModel{
     
     String[] columns = {"Nome", "Descrição", "Prazo", "Tarefa Concluida", "Editar", "Excluir"};
