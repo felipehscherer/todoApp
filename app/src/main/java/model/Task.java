@@ -6,10 +6,6 @@ package model;
 
 import java.util.Date;
 
-/**
- *
- * @author @felipenhaa
- */
 public class Task {
     private int id;
     private int idProject;
