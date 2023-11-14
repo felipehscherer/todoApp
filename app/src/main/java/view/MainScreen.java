@@ -16,15 +16,6 @@ import util.ButtomColumnCellRederer;
 import util.DeadlineColumnCellRederer;
 import util.TaskTableModel;
 
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/GUIForms/JFrame.java to edit this template
- */
-
-/**
- *
- * @author Samsung
- */
 public class MainScreen extends javax.swing.JFrame {
 
     ProjectController projectController;
